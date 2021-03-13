@@ -1,0 +1,6 @@
+com/freespecter/welcomeservice/models/WelcomeMessage.java
+ com.freespecter.welcomeservice.models.WelcomeMessage
+com/freespecter/welcomeservice/WelcomeServiceApplication.java
+ com.freespecter.welcomeservice.WelcomeServiceApplication
+com/freespecter/welcomeservice/controllers/PrimaryController.java
+ com.freespecter.welcomeservice.controllers.PrimaryController
