@@ -14,6 +14,8 @@ method: GET
 
 [See the qa-automation postman repo/directory that pairs with this service](https://github.com/brandon-morris/qa-automation)
 
+[See the qa-performance jmeter repo/directory that pairs with this service](https://github.com/brandon-morris/qa-performance)
+
 
 ##### Startup instructions
 _If you have java setup properly on your machine, you "should" not have to change anything in the service itself_
